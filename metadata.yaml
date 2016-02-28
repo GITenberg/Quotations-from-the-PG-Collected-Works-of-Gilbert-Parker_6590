@@ -1,0 +1,34 @@
+_repo: Quotations-from-the-PG-Collected-Works-of-Gilbert-Parker_6590
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: &id001 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: *id001
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian literature'
+- !lcc 'PS'
+title: Quotations from the PG Collected Works of Gilbert Parker
+url: http://www.gutenberg.org/ebooks/6590
