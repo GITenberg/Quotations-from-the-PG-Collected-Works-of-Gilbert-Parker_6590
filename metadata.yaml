@@ -1,11 +1,15 @@
 _repo: Quotations-from-the-PG-Collected-Works-of-Gilbert-Parker_6590
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Widger, David
-      birthdate: &id001 1932
+      birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parker, Gilbert
@@ -13,11 +17,13 @@ creator:
     - Parker, Gilbert, Sir, bart.
     - Parker, Horatio Gilbert
     birthdate: 1862
-    deathdate: *id001
+    deathdate: 1932
     gutenberg_agent_id: '1285'
     url: http://www.gutenberg.org/2009/agents/1285
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6590#Quotations-from-the-PG-Collected-Works-of-Gilbert-Parker
 gutenberg_bookshelf: Project Gutenberg
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
